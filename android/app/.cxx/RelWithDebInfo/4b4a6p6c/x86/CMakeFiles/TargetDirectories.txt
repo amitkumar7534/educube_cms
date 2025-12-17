@@ -1,0 +1,2 @@
+/Users/drmac/Documents/Flutter/educube/android/app/.cxx/RelWithDebInfo/4b4a6p6c/x86/CMakeFiles/edit_cache.dir
+/Users/drmac/Documents/Flutter/educube/android/app/.cxx/RelWithDebInfo/4b4a6p6c/x86/CMakeFiles/rebuild_cache.dir

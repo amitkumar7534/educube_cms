@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "132236736908",
+    "project_id": "educube-cms",
+    "storage_bucket": "educube-cms.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:132236736908:android:f1c46881690843a0ae7ea9",
+        "android_client_info": {
+          "package_name": "com.globals.educube.cms.parent"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYoksKZj55n7P9yPbWqlzkYFgR3-HHfwQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
