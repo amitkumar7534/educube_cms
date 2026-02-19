@@ -65,7 +65,7 @@ class HomeScreen extends StatelessWidget {
                                     ),
                                     hint: Text(
                                       profileController.selectedYear.value.isEmpty
-                                          ? '2024-2025'
+                                          ? '2025-2026'
                                           : profileController.selectedYear.value,
                                       style: Theme.of(context)
                                           .textTheme

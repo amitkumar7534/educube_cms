@@ -71,7 +71,8 @@ class HolidayEventController extends GetxController {
     Map<String, dynamic> requestBody = {
       "school_id": PreferenceManager.getPref("school_id"),
       "academic_year": currentYear.value,
-      "date": monthYr,
+      "user_id": PreferenceManager.getPref("user_id"),
+
     };
 
     try {
